@@ -1,1 +1,1 @@
-# ham-radio-messanger
+# Simple HAM Radio Text Service
